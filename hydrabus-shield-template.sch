@@ -49,7 +49,7 @@ U 1 1 5672B7D1
 P 1450 5200
 F 0 "J3" H 1450 5750 50  0000 C CNN
 F 1 "CONN_02X10" V 1450 5200 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x10" H 1450 4000 50  0001 C CNN
+F 2 "umetronics:Hydrabus_Shield_Conn_2x10" H 1450 4000 50  0001 C CNN
 F 3 "" H 1450 4000 50  0000 C CNN
 	1    1450 5200
 	1    0    0    -1  
@@ -60,7 +60,7 @@ U 1 1 5672B8E4
 P 1450 3300
 F 0 "J2" H 1450 3850 50  0000 C CNN
 F 1 "CONN_02X10" V 1450 3300 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x10" H 1450 2100 50  0001 C CNN
+F 2 "umetronics:Hydrabus_Shield_Conn_2x10" H 1450 2100 50  0001 C CNN
 F 3 "" H 1450 2100 50  0000 C CNN
 	1    1450 3300
 	1    0    0    -1  
@@ -71,7 +71,7 @@ U 1 1 5672B942
 P 1450 1450
 F 0 "J1" H 1450 1850 50  0000 C CNN
 F 1 "CONN_02X07" V 1450 1450 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x07" H 1450 250 50  0001 C CNN
+F 2 "umetronics:Hydrabus_Shield_Conn_2x07" H 1450 250 50  0001 C CNN
 F 3 "" H 1450 250 50  0000 C CNN
 	1    1450 1450
 	1    0    0    -1  
@@ -82,7 +82,7 @@ U 1 1 5672B97D
 P 1800 7100
 F 0 "J4" H 1800 7450 50  0000 C CNN
 F 1 "CONN_01X06" V 1900 7100 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x06" H 1800 7100 50  0001 C CNN
+F 2 "umetronics:Hydrabus_Shield_Conn_1x06" H 1800 7100 50  0001 C CNN
 F 3 "" H 1800 7100 50  0000 C CNN
 	1    1800 7100
 	1    0    0    -1  
